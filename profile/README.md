@@ -4,7 +4,7 @@
 
 ## Námsáætlun 2022 haust. 👋 ath! í vinnslu
 
-| Vika  | Verkefni   | Tímar | Vægi % |
+| Vika  | Verkefni  | Tímar | Vægi % |
 |---|---|---|---|
 | 33  | Uppsetning vefþróunarsvæðis | 4  |    |
 | 34  | HTML og CSS  | 8  | 14  |

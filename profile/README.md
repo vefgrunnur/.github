@@ -16,10 +16,10 @@
 
 ### 👩‍💻 Lesefni og sýnidæmi
 
-* [Námsefni](https://github.com/vefthroun/namsefni/)
+* [Námsefni](https://github.com/vefgrunnur/namsefni/)
 
 ### 🧙 Verkefnalýsingar
-* [Verkefni](https://github.com/vefthroun/Verkefni/)
+* [Verkefni](https://github.com/vefgrunnur/verkefni/)
 
 
 ### 🌈 Verkefnaskil

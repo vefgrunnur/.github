@@ -7,13 +7,13 @@
 | Vika  | Verkefni  | Tímar | Vægi % |
 |---|---|---|---|
 | 33  | Uppsetning vefþróunarsvæðis | 4  |    |
-| 34  | HTML og CSS  | 8  | 14  |
-| 35  | Skipulag vefsíðu | 8  | 14  |
-| 36  | Efnisyfirlit og listar | 6 | 14  |
-| 37  | Myndvinnsla | 8  | 14  |
-| 38  | V.5 Form og vaframinni | 8 | 14  |
-| 39  | V.6 Gagnavinnsla | 8 | 14  |
-| 40 -41  | V.7 Lokaverkefni 🍿 Lykilmatsþáttur | 10 | 16  |
+| 34  | HTML tög og CSS klasar  | 8  | 14  |
+| 35  | Box Modelið, eiginleikar taga | 8  | 14  |
+| 36  | Grid skipulag og svegjanleg vefhönnun | 6 | 14  |
+| 37  | Efnisyfirlit, listar og staðsetning efnis | 8  | 14  |
+| 38  | Myndvinnsla fyrir vefsíður | 8 | 14  |
+| 39  | Leturgerðir og innsetning miðla | 8 | 14  |
+| 40 -41  | Lokaverkefni 🍿 Lykilmatsþáttur | 10 | 16  |
 
 
 ### 👩‍💻 Lesefni og sýnidæmi

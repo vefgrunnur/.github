@@ -16,7 +16,7 @@
 | 40 -41  | Lokaverkefni 🍿 Lykilmatsþáttur | 10 | 16  |
 
 
-### 👩‍💻 Lesefni og sýnidæmi
+### 👩‍💻 Námsefni og sýnidæmi
 
 * [Námsefni](https://github.com/vefgrunnur/namsefni/)
 

@@ -30,7 +30,7 @@
 
 #### 🙋‍♀️ Stundatalfan er í [Innu](https://r.inna.is/) og einkunnir birtast þar.
 
-<!--
-Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
--->
+Þetta skjal er ritað í [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) rithætti.
+
+

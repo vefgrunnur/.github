@@ -12,8 +12,8 @@
 | 37  | Efnisyfirlit, listar og staðsetning efnis | 8  | 14  |
 | 38  | Myndvinnsla fyrir vefsíður | 8 | 14  |
 | 39  | Leturgerðir og innsetning miðla | 8 | 14  |
-| 40 -41  | Lokaverkefni :key: Lykilmatsþáttur | 10 | 16  |
-
+| 40 - 41  | Lokaverkefni :key: Lykilmatsþáttur | 12 | 16  |
+|   | _Síðasti kennsludagur  13/10_ |  |   |
 
 ### 👩‍💻 Námsefni og sýnidæmi
 

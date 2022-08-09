@@ -15,7 +15,7 @@
 | 38  | Myndvinnsla fyrir vefsíður | 8 | 14  |
 | 39  | Leturgerðir og innsetning miðla | 8 | 14  |
 | 40 - 41  | Lokaverkefni :key: Lykilmatsþáttur | 12 | 16  |
-|   | _Síðasti kennsludagur  13/10_ |  |   |
+|   | <sub> Námsmatsdagur 1. 06/09 - Námsmatsdagur 2. 28/09  - Síðasti kennsludagur  13/10 </sub> |  |   |
 
 ### 👩‍💻 Námsefni og sýnidæmi
 

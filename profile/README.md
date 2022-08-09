@@ -13,8 +13,8 @@
 | 36  | Grid skipulag og svegjanleg vefhönnun | 6 | 14  |
 | 37  | Efnisyfirlit, listar og staðsetning efnis | 8  | 14  |
 | 38  | Myndvinnsla fyrir vefsíður | 8 | 14  |
-| 39  | Leturgerðir og innsetning miðla | 8 | 14  |
-| 40 - 41  | Lokaverkefni :key: Lykilmatsþáttur | 12 | 16  |
+| 39  | Leturgerðir og innsetning miðla | 6 | 14  |
+| 40 - 41  | Lokaverkefni :key: Lykilmatsþáttur | 14 | 16  |
 |   | <sub> Námsmatsdagur 1. 06/09 - Námsmatsdagur 2. 28/09  - Síðasti kennsludagur  13/10 </sub> |  |   |
 
 ### 👩‍💻 Námsefni og sýnidæmi

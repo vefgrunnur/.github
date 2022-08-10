@@ -17,6 +17,10 @@
 | 40 - 41  | Lokaverkefni :key: Lykilmatsþáttur | 14 | 16  |
 |   | <sub> Námsmatsdagur 1. 06/09 - Námsmatsdagur 2. 28/09  - Síðasti kennsludagur  13/10 </sub> |  |   |
 
+### Undirbúningur
+
+* [Undirbúningur og bjargir](https://github.com/vefgrunnur/Namsefni/wiki)
+
 ### 👩‍💻 Námsefni og sýnidæmi
 
 * [Námsefni](https://github.com/vefgrunnur/namsefni/)

@@ -16,7 +16,7 @@
 | 38  | Myndvinnsla fyrir vefsíður | 8 | 14  |
 | 39 - 40  | Leturgerðir og innsetning miðla | 8 | 14  |
 | 40 - 41  | Lokaverkefni :key: Lykilmatsþáttur | 14 | 16  |
-|   | <sub> Námsmatsdagar 06/09 og 28/09  - Spönn lýkur  13/10 </sub>|  |   |
+|   | <sub> Námsmatsdagar 06/09 og 28/09  - Spönn lýkur  13/10 </sub>|  | 100%  |
 
 ### Undirbúningur
 

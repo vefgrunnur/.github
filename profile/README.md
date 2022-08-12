@@ -8,7 +8,8 @@
 
 | Vika  | Verkefni  | Tímar | Vægi % |
 |---|---|---|---|
-| 34  | HTML tög og CSS klasar  | 8  | 14  |
+| 34  | Innsetning forrita og undirbúningur  | 2  |  |
+| 34  | HTML tög og CSS klasar  | 6  | 14  |
 | 35  | Box Modelið, eiginleikar taga | 8  | 14  |
 | 36  | Grid skipulag og svegjanleg vefhönnun | 6 | 14  |
 | 37  | Efnisyfirlit, listar og staðsetning efnis | 8  | 14  |

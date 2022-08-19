@@ -25,7 +25,7 @@
 #### 🧙 [Verkefni](https://github.com/vefgrunnur/verkefni/)
 
 
-#### 🌈 Verkefnaskil - [Github.com/22VG](https://github.com/22vg)
+#### 🌈 Verkefnaskil: [Github.com/22VG](https://github.com/22vg)
 
 #### 🙋‍♀️ Stundatalfan er í [Innu](https://r.inna.is/) og einkunnir birtast þar.
 

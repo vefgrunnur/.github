@@ -18,21 +18,14 @@
 | 40 - 41  | Lokaverkefni :key: Lykilmatsþáttur | 14 | 16  |
 |   | <sub> Námsmatsdagar 06/09 og 28/09  - Spönn 1 lýkur  18/10 </sub>|  | 100%  |
 
-### Undirbúningur
+### [Undirbúningur og bjargir](https://github.com/vefgrunnur/Namsefni/wiki)
 
-* [Undirbúningur og bjargir](https://github.com/vefgrunnur/Namsefni/wiki)
+### 👩‍💻 [Námsefni og sýnidæmi](https://github.com/vefgrunnur/namsefni/)
 
-### 👩‍💻 Námsefni og sýnidæmi
-
-* [Námsefni](https://github.com/vefgrunnur/namsefni/)
-
-### 🧙 Verkefnalýsingar
-* [Verkefni](https://github.com/vefgrunnur/verkefni/)
+### 🧙 [Verkefni](https://github.com/vefgrunnur/verkefni/)
 
 
-### 🌈 Verkefnaskil
-
-* [Github.com/22VG](https://github.com/22vg)
+### 🌈 Verkefnaskil - [Github.com/22VG](https://github.com/22vg)
 
 #### 🙋‍♀️ Stundatalfan er í [Innu](https://r.inna.is/) og einkunnir birtast þar.
 

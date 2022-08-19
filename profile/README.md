@@ -8,14 +8,14 @@
 
 | Vika  | Verkefni  | Tímar | Vægi % |
 |---|---|---|---|
-| 34  | Innsetning forrita og undirbúningur  | 2  |  |
-| 34  | HTML tög og CSS klasar  | 6  | 14  |
+| 34  | Innsetning forrita og undirbúningur  |   |  |
+| 34  | HTML tög og CSS klasar  | 8  | 14  |
 | 35  | Box Modelið, eiginleikar taga | 8  | 14  |
-| 36  | Grid skipulag og svegjanleg vefhönnun | 6 | 14  |
-| 37  | Efnisyfirlit, listar og staðsetning efnis | 8  | 14  |
-| 38  | Myndvinnsla fyrir vefsíður | 8 | 14  |
-| 39 - 40  | Leturgerðir og innsetning miðla | 8 | 14  |
-| 40 - 41  | Lokaverkefni :key: Lykilmatsþáttur | 14 | 16  |
+| 36  | Grid skipulag vefsíðu| 6 | 14  |
+| 37  | Svegjanleg vefhönnun | 8  | 14  |
+| 38  | Efnisyfirlit, listar og staðsetning efnis | 8  | 14  |
+| 39  | Myndvinnsla fyrir vefsíður | 8 | 14  |
+| 40 - 41 | Leturgerðir og innsetning miðla | 14 | 16  |
 |   | <sub> Námsmatsdagar 06/09 og 28/09  - Spönn 1 lýkur  18/10 </sub>|  | 100%  |
 
 #### 👋 [Undirbúningur og bjargir](https://github.com/vefgrunnur/Namsefni/wiki)
@@ -23,7 +23,6 @@
 #### 👩‍💻 [Námsefni og sýnidæmi](https://github.com/vefgrunnur/namsefni/)
 
 #### 🧙 [Verkefni](https://github.com/vefgrunnur/verkefni/)
-
 
 #### 🌈 Verkefnaskil: [Github.com/22VG](https://github.com/22vg)
 

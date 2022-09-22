@@ -11,8 +11,8 @@
 | 34  | Innsetning forrita og undirbúningur  |   |  |  |
 | 34  | HTML tög og CSS klasar | 1 | 8  | 14  |
 | 35  | Box Modelið, eiginleikar taga | 2  | 8  | 14  |
-| 36  | Grid skipulag vefsíðu og | 3  | 6<sup>1</sup> |  |
-| 37  | Svegjanleg vefhönnun | 3  | 8  | 14  |
+| 36  | Grid skipulag vefsíðu og | 3.1  | 6<sup>1</sup> |  |
+| 37  | Svegjanleg vefhönnun | 3.2  | 8  | 14  |
 | 38  | Efnisyfirlit, listar og staðsetning efnis | 4  | 8  | 14  |
 | 39  | Myndvinnsla fyrir vefsíður | 5  | 6<sup>2</sup> | 14  |
 | 40  | Leturgerðir og innsetning miðla | 6  | 8 | 14  |

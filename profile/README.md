@@ -11,13 +11,13 @@
 | 34  | Innsetning forrita og undirbúningur  |   |  |  |
 | 34  | HTML tög og CSS klasar | 1 | 8  | 14  |
 | 35  | Box Modelið, eiginleikar taga | 2  | 8  | 14  |
-| 36  | Grid skipulag vefsíðu og | 3  | 6* |  |
+| 36  | Grid skipulag vefsíðu og | 3  | 6<sup>1</sup> |  |
 | 37  | Svegjanleg vefhönnun | 3  | 8  | 14  |
 | 38  | Efnisyfirlit, listar og staðsetning efnis | 4  | 8  | 14  |
-| 39  | Myndvinnsla fyrir vefsíður | 5  | 6* | 14  |
+| 39  | Myndvinnsla fyrir vefsíður | 5  | 6<sup>2</sup> | 14  |
 | 40  | Leturgerðir og innsetning miðla | 6  | 8 | 14  |
-| 41  | Lokaverkefni | 7 | 6** | 16  |
-|   | <sub> **Skil á lokaverkefni er 13. október**. <br>Námsmatsdagar 06/09 og 28/09  - Spönn 1 lýkur  18/10 </sub>|  | 100%  |
+| 41  | Lokaverkefni | 7 | 6<sup>3</sup> | 16  |
+|   | <sub> 1,2 Námsmatsdagar 06/09 og 28/09<br>**Skil á lokaverkefni er 13. október**. - Spönn 1 lýkur  18/10 </sub>|  | 100%  |
 
 #### 👋 [Undirbúningur og bjargir](https://github.com/vefgrunnur/Namsefni/wiki)
 

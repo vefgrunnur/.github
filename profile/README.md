@@ -17,7 +17,7 @@
 | 39  | Myndvinnsla fyrir vefsíður | 5  | 6<sup>2</sup> | 14  |
 | 40  | Leturgerðir og innsetning miðla | 6  | 8 | 14  |
 | 41  | Lokaverkefni | 7 | 8<sup>3</sup> | 16  |
-|   | <sub>(1) Námsmatsdagar 06/09 og (2) 28/09<br>(3) **Skil á lokaverkefni er 13. október**. - Spönn 1 lýkur  18/10 </sub>|  | 100%  |
+|   | <sub>(1) Námsmatsdagar 06/09 og (2) 28/09<br>(3) **Skil á lokaverkefni er 13. október**. - Spönn 1 lýkur  18/10 </sub> |  |  | 100%  |
 
 #### 👋 [Undirbúningur og bjargir](https://github.com/vefgrunnur/Namsefni/wiki)
 

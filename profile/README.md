@@ -21,9 +21,7 @@
 
 #### 👋 [Undirbúningur og bjargir](https://github.com/vefgrunnur/Namsefni/wiki)
 
-#### 👩‍💻 [Námsefni og sýnidæmi](https://github.com/vefgrunnur/namsefni/)
-
-#### 🧙 [Verkefni](https://github.com/vefgrunnur/verkefni/)
+#### 🧙 👩‍💻 [Verkefni, námsefni og sýnidæmi](https://github.com/vefgrunnur/namsefni/)
 
 #### 🌈 Verkefnaskil: [Github.com/22VG](https://github.com/22vg)
 

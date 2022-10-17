@@ -23,7 +23,7 @@
 
 #### 🧙 👩‍💻 Verkefni og námsefni er í Innu
 
-#### 🌈 [Vefsíða með verkefnadæmum](margmidlun.github.io/2022h)
+#### 🌈 [Vefsíða með verkefnadæmum](https://margmidlun.github.io/2022h/)
 
 #### 🙋‍♀️ Gangi ykkur vel
 

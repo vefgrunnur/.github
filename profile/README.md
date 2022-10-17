@@ -19,16 +19,14 @@
 | 41  | Lokaverkefni | 7 | 8<sup>3</sup> | 16  |
 |   | <sub>Námsmatsdagar, (1) 06/09 og (2) 28/09<br>(3) **Skil á lokaverkefni er 13. október**. - Spönn 1 lýkur  18/10 </sub> |  |  | 100%  |
 
-#### 👋 [Undirbúningur og bjargir](https://github.com/vefgrunnur/Namsefni/wiki)
+#### 👋 Stundatalfan er í [Innu](https://r.inna.is/) og einkunnir birtast þar.
 
-#### 🧙 👩‍💻 [Verkefni, námsefni og sýnidæmi](https://github.com/vefgrunnur/namsefni/)
+#### 🧙 👩‍💻 Verkefni og námsefni er í Innu
 
-#### 🌈 Verkefnaskil: [Github.com/22VG](https://github.com/22vg)
+#### 🌈 {Vefsíða með verkefnadæmum](margmidlun.github.io/2022h)
 
-#### 🙋‍♀️ Stundatalfan er í [Innu](https://r.inna.is/) og einkunnir birtast þar.
+#### 🙋‍♀️ Gangi ykkur vel
 
----
 
-_Þetta skjal er í [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) rithætti._ 
 
 

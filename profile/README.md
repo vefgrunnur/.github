@@ -19,13 +19,13 @@
 | 41  | Lokaverkefni | 7 | 8<sup>3</sup> | 16  |
 |   | <sub>Námsmatsdagar, (1) 06/09 og (2) 28/09<br>(3) **Skil á lokaverkefni er 13. október**. - Spönn 1 lýkur  18/10 </sub> |  |  | 100%  |
 
-#### 👋 Stundatalfan er í [Innu](https://r.inna.is/) og einkunnir birtast þar.
+#### 👋 [Undirbúningur og bjargir](https://github.com/vefgrunnur/Namsefni/wiki)
 
-#### 🧙 👩‍💻 Verkefni og námsefni er í Innu
+#### 👩‍💻 [Námsefni og sýnidæmi](https://github.com/vefgrunnur/namsefni/)
 
-#### 🌈 [Vefsíða með verkefnadæmum](https://margmidlun.github.io/2022h/)
+#### 🧙 👩‍💻 [Verkefni, námsefni og sýnidæmi](https://github.com/vefgrunnur/namsefni/)
 
-#### 🙋‍♀️ Gangi ykkur vel
+#### 🌈 Verkefnaskil: [Github.com/22VG](https://github.com/22vg)
 
 
 

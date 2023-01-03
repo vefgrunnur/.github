@@ -13,7 +13,7 @@
 | 4  | Grid skipulag vefsíðu | 3  | 8 | 12 |
 | 5  | Svegjanleg vefhönnun, lykilmatsþáttur | 4  | 8  | 20 |
 | 6  | Myndvinnsla fyrir vefsíður | 5  | 8 | 12  |
-| 7  | Leturgerðir og innsetning miðla | 6  | 12 | 12 |
+| 7  | Leturgerðir og innsetning miðla | 6  | 8 | 12 |
 | 8  | Töflur og form, lykilmatsþáttur | 7 | 8 | 20 |
 |    | <sub>**Síðasti  kennsludagur 1.mars**. <br> Námsmat 2, 3. mars og 6. Mars.</sub> |  |  | 100%  |
 

@@ -17,10 +17,7 @@
 | 8  | Töflur og form, lykilmatsþáttur | 7 | 8 | 20 |
 |    | <sub>**Síðasti  kennsludagur 1.mars**. <br> Námsmat 2, 3. mars og 6. Mars.</sub> |  |  | 100%  |
 
-
-
+#### 🧙 [Verkefni og námsefni](https://github.com/vefgrunnur/23-Verkefni-s1/)
 #### 👋 [Undirbúningur og bjargir](https://github.com/vefgrunnur/Namsefni/wiki)
-
-#### 🧙 [Verkefni, námsefni og sýnidæmi](https://github.com/vefgrunnur/namsefni/)
 
 

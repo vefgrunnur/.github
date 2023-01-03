@@ -15,7 +15,7 @@
 | 6  | Myndvinnsla fyrir vefsíður | 5  | 8 | 12  |
 | 7  | Leturgerðir og innsetning miðla | 6  | 12 | 12 |
 | 8  | Töflur og form, lykilmatsþáttur | 7 | 8 | 20 |
-|    | <sub>**Síðasti  kennsludagur 1.mars**. <br> Spönn 1 lýkur  06/04Námsmat 2, 3. mars og 6. Mars.</sub> |  |  | 100%  |
+|    | <sub>**Síðasti  kennsludagur 1.mars**. <br> Námsmat 2, 3. mars og 6. Mars.</sub> |  |  | 100%  |
 
 
 

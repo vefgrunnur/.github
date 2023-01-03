@@ -8,7 +8,7 @@
 
 | Vika  | Verkefni  | Nr. | Tímar | Vægi % |
 |---|---|---|---|---|
-| 1 -2  | Innsetning forrita og undirbúningur  | 1  | 8 | 12 |
+| 1 - 2  | Innsetning forrita og undirbúningur  | 1  | 8 | 12 |
 | 3  | HTML tög og CSS <br>Box Modelið, eiginleikar taga  | 2 | 8  | 12 |
 | 4  | Grid skipulag vefsíðu | 3  | 8 | 12 |
 | 5  | Svegjanleg vefhönnun, lykilmatsþáttur | 4  | 8  | 20 |

@@ -18,6 +18,6 @@
 |    | <sub>**Síðasti  kennsludagur 1.mars**. <br> Námsmat 2, 3. mars og 6. Mars.</sub> |  |  | 100%  |
 
 #### 🧙 [Verkefni og námsefni](https://github.com/vefgrunnur/23-Verkefni-s1/)
-#### 👋 [Undirbúningur og bjargir](https://github.com/vefgrunnur/Namsefni/wiki)
+#### 👋 [Undirbúningur og bjargir](https://github.com/vefgrunnur/23-Verkefni-s1/wiki)
 
 
